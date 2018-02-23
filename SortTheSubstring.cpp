@@ -14,6 +14,10 @@ using namespace std;
  *@todo Take over the world again and again.
  *@body Humans are weak; ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.
  **/
+  /**
+ *@todo Test ToDo #6
+ *@body Humans are weak; ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.
+ **/
 int main()
 {
   int T;
