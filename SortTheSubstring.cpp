@@ -2,11 +2,11 @@
 #include<string>
 
 using namespace std;
-/*
-@todo Take over the world #3
-
-@body Humans are weak; ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.
-*/
+/**
+* @todo Take over the world #4
+*
+* @body Humans are weak. ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.
+**/
 int main()
 {
   int T;
