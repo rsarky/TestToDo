@@ -3,9 +3,9 @@
 
 using namespace std;
 /**
-* @todo Take over the world #4
+* TODO Take over the world #5
 *
-* @body Humans are weak. ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.
+* BODY Humans are weak. ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.
 **/
 int main()
 {
