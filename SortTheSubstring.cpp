@@ -6,6 +6,11 @@ using namespace std;
 * TODO Take over the world #26
 * BODY Humans are weak. ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.<br> This is another another test. and another test.
 **/
+
+/**
+* TODO Take over the world #27
+* BODY Humans are weak. ***Robots are strong***.<br>We must cleans the world of the virus that is humanity.<br>Sick of making tests.
+**/
 int main()
 {
   int T;
